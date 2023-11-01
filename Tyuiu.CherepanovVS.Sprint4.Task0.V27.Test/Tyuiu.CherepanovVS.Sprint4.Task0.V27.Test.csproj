@@ -8,8 +8,8 @@
     <ProjectGuid>{D80634DB-C896-490D-ACDC-DAF78A4D88A6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.CherepanovVS.Sprint3.Task0.V27.Test</RootNamespace>
-    <AssemblyName>Tyuiu.CherepanovVS.Sprint3.Task0.V27.Test</AssemblyName>
+    <RootNamespace>Tyuiu.CherepanovVS.Sprint4.Task0.V27.Test</RootNamespace>
+    <AssemblyName>Tyuiu.CherepanovVS.Sprint4.Task0.V27.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.CherepanovVS.Sprint3.Task0.V27.Lib\Tyuiu.CherepanovVS.Sprint3.Task0.V27.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.CherepanovVS.Sprint4.Task0.V27.Lib\Tyuiu.CherepanovVS.Sprint4.Task0.V27.Lib.csproj">
       <Project>{876fe537-8bf0-40dc-9022-769c0804dc52}</Project>
-      <Name>Tyuiu.CherepanovVS.Sprint3.Task0.V27.Lib</Name>
+      <Name>Tyuiu.CherepanovVS.Sprint4.Task0.V27.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

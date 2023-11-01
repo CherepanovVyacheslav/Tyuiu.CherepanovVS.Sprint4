@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint4;
 
-namespace Tyuiu.CherepanovVS.Sprint3.Task0.V27.Lib
+namespace Tyuiu.CherepanovVS.Sprint4.Task0.V27.Lib
 {
     public class DataService : ISprint4Task0V27
     {

@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{7C3FB7E9-C1A0-477B-9608-2BEFCE3DA15F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.CherepanovVS.Sprint3.Task0.V27", "Tyuiu.CherepanovVS.Sprint3.Task0.V27\Tyuiu.CherepanovVS.Sprint3.Task0.V27.csproj", "{65A796D9-89AD-4336-98B6-51CF4B6468E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.CherepanovVS.Sprint4.Task0.V27", "Tyuiu.CherepanovVS.Sprint4.Task0.V27\Tyuiu.CherepanovVS.Sprint4.Task0.V27.csproj", "{65A796D9-89AD-4336-98B6-51CF4B6468E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.CherepanovVS.Sprint3.Task0.V27.Lib", "Tyuiu.CherepanovVS.Sprint3.Task0.V27.Lib\Tyuiu.CherepanovVS.Sprint3.Task0.V27.Lib.csproj", "{876FE537-8BF0-40DC-9022-769C0804DC52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.CherepanovVS.Sprint4.Task0.V27.Lib", "Tyuiu.CherepanovVS.Sprint4.Task0.V27.Lib\Tyuiu.CherepanovVS.Sprint4.Task0.V27.Lib.csproj", "{876FE537-8BF0-40DC-9022-769C0804DC52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.CherepanovVS.Sprint3.Task0.V27.Test", "Tyuiu.CherepanovVS.Sprint3.Task0.V27.Test\Tyuiu.CherepanovVS.Sprint3.Task0.V27.Test.csproj", "{D80634DB-C896-490D-ACDC-DAF78A4D88A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.CherepanovVS.Sprint4.Task0.V27.Test", "Tyuiu.CherepanovVS.Sprint4.Task0.V27.Test\Tyuiu.CherepanovVS.Sprint4.Task0.V27.Test.csproj", "{D80634DB-C896-490D-ACDC-DAF78A4D88A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
