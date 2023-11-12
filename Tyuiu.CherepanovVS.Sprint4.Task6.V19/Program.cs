@@ -41,7 +41,6 @@ namespace Tyuiu.CherepanovVS.Sprint4.Task6.V19
             Console.WriteLine("Число элементов длина которых больше 5");
             int nums = ds.Calculate(browse);
             Console.WriteLine(nums);
-
             Console.ReadKey();
         }
     }
